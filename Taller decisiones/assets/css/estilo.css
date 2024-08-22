@@ -1,0 +1,17 @@
+.boton {
+   color: aqua;
+   border-radius: 10px;
+
+}
+.todo {
+   width: 50%;
+   height: 60%px;
+   margin: auto;
+   text-align: center;
+   background-color: beige;
+   border-radius: 10px;
+   padding: 20px;
+}
+
+
+
